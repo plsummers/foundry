@@ -22,7 +22,7 @@ hex = "0.4.3"
 [dev-dependencies]
 async-trait = "0.1.53"
 serde = "1.0.136"
-tokio = "1.17.0"
+tokio = "1.18.4"
 thiserror = "1.0.30"
 
 [features]
